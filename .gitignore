@@ -6,4 +6,4 @@ node_modules/
 .env
 
 solution.py
-test.py
+tests.py

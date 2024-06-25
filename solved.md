@@ -34,15 +34,28 @@
 
 1. [5 kyu] Weight for weight
 2. [5 kyu] Extract the domain name from a URL
-3. 
+3. [5 kyu] Domain name validator
 
 ### 18.06 (Tuesday)
+
+1. [4 kyu] Snail
+2. [4 kyu] Human readable duration format
+3. 
+
+### 19.06 (Wednesday)
 
 1. 
 2. 
 3. 
 
-### 19.06 (Wednesday)
+
+### 20.06 (Thursday)
+
+1. 
+2. 
+3. 
+
+### 21.06 (Friday)
 
 1. 
 2. 
