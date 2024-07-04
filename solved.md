@@ -40,23 +40,83 @@
 
 1. [4 kyu] Snail
 2. [4 kyu] Human readable duration format
-3. 
+3. [5 kyu] Human Readable Time
 
 ### 19.06 (Wednesday)
 
-1. 
-2. 
-3. 
-
+1. [5 kyu] String incrementer
+2. [6 kyu] Your order, please
+3. [6 kyu] Unique In Order
 
 ### 20.06 (Thursday)
 
-1. 
-2. 
-3. 
+1. [6 kyu] Decode the Morse code
+2. [6 kyu] Split Strings
+3. [6 kyu] Find the unique number
 
 ### 21.06 (Friday)
 
-1. 
-2. 
-3. 
+1. [6 kyu] Sort the odd
+2. [6 kyu] Find the missing letter
+3. [6 kyu] Build Tower
+
+### 24.06 (Monday)
+
+1. [6 kyu] Highest Scoring Word
+2. [6 kyu] Count the smiley faces!
+3. [6 kyu] Break camelCase
+
+### 25.06 (Tuesday)
+
+1. [6 kyu] Consecutive strings
+2. [6 kyu] Bouncing Balls
+3. [6 kyu] Which are in?
+
+### 26.06 (Wednesday)
+
+1. [6 kyu] Mexican Wave
+2. [6 kyu] The Supermarket Queue
+3. [6 kyu] Two Sum
+
+### 27.06 (Thursday)
+
+1. [6 kyu] Roman Numerals Encoder
+2. [6 kyu] Roman Numerals Decoder
+3. [6 kyu] CamelCase Method
+
+### 28.06 (Friday)
+
+1. [6 kyu] WeIrD StRiNg CaSe
+2. [6 kyu] Give me a Diamond
+3. [6 kyu] IP Validation
+
+### 01.07 (Monday)
+
+1. [6 kyu] Title Case
+2. [6 kyu] Make the Deadfish Swim
+3. [6 kyu] Multiplication table
+
+### 02.07 (Tuesday)
+
+1. [6 kyu] Reverse or rotate?
+2. [6 kyu] Find the missing term in an Arithmetic Progression
+3. [6 kyu] Encrypt this!
+
+### 04.07 (Thursday)
+
+1. [6 kyu] Data Reverse
+2. [6 kyu] Meeting
+3. [6 kyu] Backspaces in string
+
+### 05.07 (Friday)
+
+1. [6 kyu] The Vowel Code
+2. [6 kyu] Validate Credit Card Number
+3. [6 kyu] Valid Phone Number
+
+### 06.07 (Monday)
+
+1. [6 kyu] Reverse every other word in the string
+2. [6 kyu] Kebabize
+3. [6 kyu] Array.diff
+4. [6 kyu] Create Phone Number
